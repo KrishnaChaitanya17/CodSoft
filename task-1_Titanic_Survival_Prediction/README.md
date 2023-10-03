@@ -31,4 +31,8 @@ The dataset used for this project is derived from the famous Kaggle competition,
 
 The final model achieved an accuracy of 92.86% on the test set, demonstrating its effectiveness in predicting Titanic survival.
 
+# **Author**
+
+Y.V.Krishna Chaitanya.
+
 #DataScience 📊 #MachineLearning 🤖 #PredictiveModeling 🧮 #TitanicSurvivalPrediction 🚢 #DataInsights
