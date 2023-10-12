@@ -1,3 +1,5 @@
+# **Sept Batch A6**
+
 # **Data Science Project: Predicting Titanic Survival**
 
 Thrilled to share my accomplishment from CodSoft's Task 1 – a captivating dive into data science via Titanic Survival Prediction. Guided by CodSoft, I explored data, engineered features, and assessed models, gaining a solid grasp of the process.
