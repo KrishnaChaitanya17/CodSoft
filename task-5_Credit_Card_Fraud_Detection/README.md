@@ -1,3 +1,6 @@
+# **Sept Batch A6**
+
+
 # **Data Science Project: Credit Card Fraud Detection**
 
 I'm excited to present my accomplishment in CodSoft's Task 5 – an insightful journey into the world of data science, specifically focusing on Credit Card Fraud Detection. With CodSoft's guidance, I delved into essential aspects such as data analysis, preprocessing, visualization, model training, and evaluation, 
