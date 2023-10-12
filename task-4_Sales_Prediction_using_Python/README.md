@@ -1,4 +1,4 @@
-#**Sept Batch A6**
+# **Sept Batch A6**
 
 # **Data Science Project: Sales Prediction Using Python**
 
