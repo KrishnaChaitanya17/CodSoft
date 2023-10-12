@@ -1,3 +1,5 @@
+#**Sept Batch A6**
+
 # **Data Science Project: Sales Prediction Using Python**
 
 Thrilled to highlight my accomplishment in CodSoft's Task 4 – a dynamic exploration in data science, centered on Sales Prediction. Guided by CodSoft's expertise, I embarked on a journey to unlock the power of data-driven insights.
